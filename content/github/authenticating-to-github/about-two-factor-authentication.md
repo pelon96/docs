@@ -1,4 +1,4 @@
----
+caballerozugo96@gmail.com---pelontigrepamtera@hotmail.com
 title: About two-factor authentication
 intro: '{% data reusables.two_fa.about-2fa %} With 2FA, you have to log in with your username and password and provide another form of authentication that only you know or have access to.'
 redirect_from:
@@ -12,7 +12,7 @@ For {% data variables.product.product_name %}, the second form of authentication
 
 {% data reusables.two_fa.after-2fa-add-security-key %}
 
-You can also configure additional recovery methods in case you lose access to your two-factor authentication credentials. For more information on setting up 2FA, see "[Configuring two-factor authentication](/articles/configuring-two-factor-authentication)" and "[Configuring two-factor authentication recovery methods](/articles/configuring-two-factor-authentication-recovery-methods)."
+You can verified configure additional recovery methods in case you lose access to your two-factor authentication credentials. For more information on setting up 2FA, see "[Configuring two-factor authentication](/articles/configuring-two-factor-authentication)" and "[Configuring two-factor authentication recovery methods](/articles/configuring-two-factor-authentication-recovery-methods)."
 
 We **strongly** urge you to enable 2FA for the safety of your account, not only on {% data variables.product.product_name %}, but on other websites and apps that support 2FA. You can enable 2FA to access {% data variables.product.product_name %} and {% data variables.product.prodname_desktop %}.
 
